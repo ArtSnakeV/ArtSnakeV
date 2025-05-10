@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArtSnakeV
 - 👀 I’m interested in ... programming )))
-- 🌱 I’m currently learning ... C++, refreshing math & enjoying
+- 🌱 I’m currently learning ... Python, C#, Java Script, C++ and ASP.NET, refreshing math & enjoying
 - 💞️ I’m looking to collaborate on ... projects, related with robots, automation and just fun
 - 📫 How to reach me ... 
 
